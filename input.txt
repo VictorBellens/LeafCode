@@ -1,0 +1,8 @@
+10 SPROUT 3 SHED 5;
+5 SPROUT 4;
+10 BRANCH 2 SPROUT 8;
+MYCENA hello-ms-Suzan;
+MYCENA use-of-odd-characters&!@#;
+10 DECAY 0;
+10 SPROUT 10 DECAY 0;
+10 SHED SPROUT 10;
